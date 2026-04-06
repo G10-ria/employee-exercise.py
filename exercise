@@ -31,8 +31,8 @@ class PartTimeEmployee(Employee):
 
 # Main program
 if __name__ == "__main__":
-    emp1 = FullTimeEmployee("wanjiru", 5000)
-    emp2 = PartTimeEmployee("wambui", 5000)
+    emp1 = FullTimeEmployee("Gloria", 5000)
+    emp2 = PartTimeEmployee("Mumbe", 5000)
 
     employees = [emp1, emp2]
 
